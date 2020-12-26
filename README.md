@@ -40,4 +40,4 @@ Application.Run(form)
 
 ```
 
-![Windows Form](Capture.png)
+![Windows Form](Capture.PNG)
