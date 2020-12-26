@@ -1,6 +1,6 @@
 # WinForms with Python
 A simple example showing the capabilities of Python (IronPython) where 
-a windows form application can be created and showed by few lines of code. 
+a windows form application can be created and displayed after few lines of code. 
 
 ```
 # Start by importing the CLR and add the appropriate references.
