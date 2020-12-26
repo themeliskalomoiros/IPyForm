@@ -40,7 +40,7 @@ Application.Run(form)
 
 ```
 ## Final Result
-After executing the code this is the result.
+After executing the source code a windows form appear as the image is showing bellow:
 
 
 ![Windows Form](Capture.PNG)
